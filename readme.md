@@ -96,6 +96,7 @@ Worthy sites for security testing
 - [Applitools Demo](https://demo.applitools.com/) - Website for visual testing, it can be compared against the [second version](https://demo.applitools.com/index_v2.html) to find visual bugs.
 - [Online Boutique](https://onlineboutique.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
 - [Lambdatest Playground](https://ecommerce-playground.lambdatest.io) - Robust e-commerce website with a wide-variety of modules to practice test automation skills.
+- [Global SQA Demo Site](https://www.globalsqa.com/demo-site) - Lots of different elements to test your automation skills against.
 - [Locator Game](https://testsmith-io.github.io/locator-game/) - A site to help you identify locators for test automation.
 - [Weather Shopper by Qxf2](https://weathershopper.pythonanywhere.com/) [source](https://github.com/qxf2/weather-shopper)
 - [Automation Test Store](https://automationteststore.com/) - E-commerce Store to practice automation skills.
@@ -106,6 +107,7 @@ Worthy sites for security testing
 - [Automation Bookstore](https://automationbookstore.dev/) - Responsive web app for practicing automation skills, with search.
 - [GitHub users Search (API backend)](https://gh-users-search.netlify.app/) - GitHub users search with API backend to practice automation skills.
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+- [CURA Healthcare Service](https://katalon-demo-cura.herokuapp.com/) - Web App to test making appointments through automation. 
 
 ## API Testing
 
